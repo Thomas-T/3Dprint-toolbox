@@ -14,5 +14,6 @@ If you want to improve this repo, feel free to make some PR.
 ## Table of contents
 1. [BedLevelling](bed-levelling)
 2. [Maintenance](maintenance)
+3. 2. [Improvments](improvments)
 
 If you are interested in Dagome and their printers : [Dagoma.com](https://dagoma.fr).
