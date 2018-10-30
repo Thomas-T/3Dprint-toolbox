@@ -6,6 +6,11 @@ These are the gcodes I use to check my printer (Dagoma DiscoEasy 200) is correcl
 
 If you want to use the gcodes (on Dagoma DE200) and don't have a screen, juste remember to rename the file to `dagoma0.g` before inserting the SD Card.
 
+## Disclaimer
+
+I'm a beginner, not an expert, I created this place to gather the things I learn and avoid losing useful files (and time).
+If you want to improve this repo, feel free to make some PR.
+
 ## Table of contents
 1. [BedLevelling](bed-levelling)
 2. [Maintenance](maintenance)
