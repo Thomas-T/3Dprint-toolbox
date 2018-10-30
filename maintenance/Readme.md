@@ -11,6 +11,6 @@ The hotend will raise, position to to center of X and start heating.
 
 Wait for the hotend to reach its max temp then brush the noozle with a metallic brush (caution, it's hot).
 
-Depending on you previous filament you should adapt the gcode - line 5 and 10 - (`M104 S205` meaning 205°)
+Depending on you previous filament you should adapt the gcode - lines 5 and 10 - (`M104 S205` meaning 205°)
 
 note : these gcodes are originally provided by Dagoma.
